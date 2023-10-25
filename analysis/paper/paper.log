@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.7.28)  24 OCT 2023 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.7.28)  25 OCT 2023 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -725,12 +725,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<paper_files/figure-latex/fig2-1.pdf, id=63, 333.245pt x 288.07625pt>
+<paper_files/figure-latex/fig2-1.pdf, id=63, 328.22626pt x 287.0725pt>
 File: paper_files/figure-latex/fig2-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig2-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig2-1.pdf  used on input lin
 e 226.
-(pdftex.def)             Requested size: 234.0pt x 202.28496pt.
+(pdftex.def)             Requested size: 234.0pt x 204.66393pt.
 (./paper.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 8.
@@ -767,7 +767,7 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmtt8.pfb>
-Output written on paper.pdf (2 pages, 317871 bytes).
+Output written on paper.pdf (2 pages, 317874 bytes).
 PDF statistics:
  178 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
